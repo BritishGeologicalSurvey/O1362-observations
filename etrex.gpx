@@ -1,0 +1,516 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.2.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="63.879444552999999" minlon="-16.857211337999999" maxlat="64.014242655000004" maxlon="-16.431905189999998"/></metadata>                
+<wpt lat="63.944570348" lon="-16.793144513">
+  <name>195</name>
+  <extensions>
+    <ogr:elevation>106.350708</ogr:elevation>
+    <ogr:comment>195</ogr:comment>
+    <ogr:description>195</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.95608943" lon="-16.764805634">
+  <name>196</name>
+  <extensions>
+    <ogr:elevation>698.758789</ogr:elevation>
+    <ogr:comment>196</ogr:comment>
+    <ogr:description>196</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.962360099" lon="-16.747499183">
+  <name>197</name>
+  <extensions>
+    <ogr:elevation>869.631836</ogr:elevation>
+    <ogr:comment>197</ogr:comment>
+    <ogr:description>197</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.967113141" lon="-16.73550644">
+  <name>198</name>
+  <extensions>
+    <ogr:elevation>1052.761475</ogr:elevation>
+    <ogr:comment>198</ogr:comment>
+    <ogr:description>198</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.968493054" lon="-16.732856166">
+  <name>199</name>
+  <extensions>
+    <ogr:elevation>1069.824707</ogr:elevation>
+    <ogr:comment>199</ogr:comment>
+    <ogr:description>199</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.974473123" lon="-16.718634088">
+  <name>200</name>
+  <extensions>
+    <ogr:elevation>1293.810059</ogr:elevation>
+    <ogr:comment>200</ogr:comment>
+    <ogr:description>200</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.982258486" lon="-16.699228054">
+  <name>201</name>
+  <extensions>
+    <ogr:elevation>1582.924316</ogr:elevation>
+    <ogr:comment>201</ogr:comment>
+    <ogr:description>201</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.988684556" lon="-16.688293191">
+  <name>202</name>
+  <extensions>
+    <ogr:elevation>1756.200928</ogr:elevation>
+    <ogr:comment>202</ogr:comment>
+    <ogr:description>202</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.988272753" lon="-16.687700339">
+  <name>203</name>
+  <extensions>
+    <ogr:elevation>1756.200928</ogr:elevation>
+    <ogr:comment>203</ogr:comment>
+    <ogr:description>203</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.989476897" lon="-16.685434962">
+  <name>204</name>
+  <extensions>
+    <ogr:elevation>1778.070557</ogr:elevation>
+    <ogr:comment>204</ogr:comment>
+    <ogr:description>204</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="64.001921425" lon="-16.671970189">
+  <name>205</name>
+  <extensions>
+    <ogr:elevation>1824.453857</ogr:elevation>
+    <ogr:comment>205</ogr:comment>
+    <ogr:description>205</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="64.00831832599999" lon="-16.678870507">
+  <name>206</name>
+  <extensions>
+    <ogr:elevation>1859.061035</ogr:elevation>
+    <ogr:comment>206</ogr:comment>
+    <ogr:description>206</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="64.014242655" lon="-16.677234443">
+  <name>207</name>
+  <extensions>
+    <ogr:elevation>2119.57641599999988</ogr:elevation>
+    <ogr:comment>207</ogr:comment>
+    <ogr:description>207</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.942591548" lon="-16.786105894">
+  <name>392</name>
+  <extensions>
+    <ogr:elevation>138.554688</ogr:elevation>
+    <ogr:comment>392</ogr:comment>
+    <ogr:description>392</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.923659679" lon="-16.743863449">
+  <name>393</name>
+  <extensions>
+    <ogr:elevation>122.692993</ogr:elevation>
+    <ogr:comment>393</ogr:comment>
+    <ogr:description>393</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.967678417" lon="-16.730855741">
+  <name>394</name>
+  <extensions>
+    <ogr:elevation>1115.487061</ogr:elevation>
+    <ogr:comment>394</ogr:comment>
+    <ogr:description>394</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.964343593" lon="-16.734273043">
+  <name>395</name>
+  <extensions>
+    <ogr:elevation>1022.960938</ogr:elevation>
+    <ogr:comment>395</ogr:comment>
+    <ogr:description>395</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.881594595" lon="-16.646070611">
+  <name>399</name>
+  <extensions>
+    <ogr:elevation>39.299316</ogr:elevation>
+    <ogr:comment>399</ogr:comment>
+    <ogr:description>399</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.881246746" lon="-16.680642106">
+  <name>400</name>
+  <extensions>
+    <ogr:elevation>32.810547</ogr:elevation>
+    <ogr:comment>400</ogr:comment>
+    <ogr:description>400</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.925476205" lon="-16.674775612">
+  <name>401</name>
+  <extensions>
+    <ogr:elevation>626.900635</ogr:elevation>
+    <ogr:comment>401</ogr:comment>
+    <ogr:description>401</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.936328255" lon="-16.695368607">
+  <name>402</name>
+  <extensions>
+    <ogr:elevation>782.152344</ogr:elevation>
+    <ogr:comment>402</ogr:comment>
+    <ogr:description>402</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.940300941" lon="-16.68443257">
+  <name>403</name>
+  <extensions>
+    <ogr:elevation>911.208252</ogr:elevation>
+    <ogr:comment>403</ogr:comment>
+    <ogr:description>403</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.94125212" lon="-16.680542864">
+  <name>404</name>
+  <extensions>
+    <ogr:elevation>999.889404</ogr:elevation>
+    <ogr:comment>404</ogr:comment>
+    <ogr:description>404</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.942943253" lon="-16.682871189">
+  <name>405</name>
+  <extensions>
+    <ogr:elevation>928.992676</ogr:elevation>
+    <ogr:comment>405</ogr:comment>
+    <ogr:description>405</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.947547683" lon="-16.690537278">
+  <name>406</name>
+  <extensions>
+    <ogr:elevation>999.648926</ogr:elevation>
+    <ogr:comment>406</ogr:comment>
+    <ogr:description>406</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.945028502" lon="-16.702137245">
+  <name>407</name>
+  <extensions>
+    <ogr:elevation>898.711426</ogr:elevation>
+    <ogr:comment>407</ogr:comment>
+    <ogr:description>407</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.938078647" lon="-16.699411618">
+  <name>408</name>
+  <extensions>
+    <ogr:elevation>766.050537</ogr:elevation>
+    <ogr:comment>408</ogr:comment>
+    <ogr:description>408</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.949609213" lon="-16.676179999">
+  <name>409</name>
+  <extensions>
+    <ogr:elevation>1075.352051</ogr:elevation>
+    <ogr:comment>409</ogr:comment>
+    <ogr:description>409</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.950669942" lon="-16.672913237">
+  <name>410</name>
+  <extensions>
+    <ogr:elevation>1141.202148</ogr:elevation>
+    <ogr:comment>410</ogr:comment>
+    <ogr:description>410</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.97934393" lon="-16.850909237">
+  <name>531</name>
+  <extensions>
+    <ogr:elevation>103.707153</ogr:elevation>
+    <ogr:comment>531</ogr:comment>
+    <ogr:description>531</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.912572851" lon="-16.723984927">
+  <name>532</name>
+  <extensions>
+    <ogr:elevation>65.975708</ogr:elevation>
+    <ogr:comment>532</ogr:comment>
+    <ogr:description>532</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.914904278" lon="-16.718959557">
+  <name>533</name>
+  <extensions>
+    <ogr:elevation>159.943848</ogr:elevation>
+    <ogr:comment>533</ogr:comment>
+    <ogr:description>533</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.917102935" lon="-16.733071161">
+  <name>534</name>
+  <extensions>
+    <ogr:elevation>78.713135</ogr:elevation>
+    <ogr:comment>534</ogr:comment>
+    <ogr:description>534</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.928026902" lon="-16.717821797">
+  <name>535</name>
+  <extensions>
+    <ogr:elevation>310.389038</ogr:elevation>
+    <ogr:comment>535</ogr:comment>
+    <ogr:description>535</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.933309261" lon="-16.624444043">
+  <name>536</name>
+  <extensions>
+    <ogr:elevation>764.368164</ogr:elevation>
+    <ogr:comment>536</ogr:comment>
+    <ogr:description>536</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.936442081" lon="-16.627377374">
+  <name>537</name>
+  <extensions>
+    <ogr:elevation>802.820557</ogr:elevation>
+    <ogr:comment>537</ogr:comment>
+    <ogr:description>537</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.938103123" lon="-16.625302685">
+  <name>538</name>
+  <extensions>
+    <ogr:elevation>831.179443</ogr:elevation>
+    <ogr:comment>538</ogr:comment>
+    <ogr:description>538</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.937381776" lon="-16.627943991">
+  <name>539</name>
+  <extensions>
+    <ogr:elevation>818.682129</ogr:elevation>
+    <ogr:comment>539</ogr:comment>
+    <ogr:description>539</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.911221018" lon="-16.613643542">
+  <name>540</name>
+  <extensions>
+    <ogr:elevation>423.82373</ogr:elevation>
+    <ogr:comment>540</ogr:comment>
+    <ogr:description>540</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.956616987" lon="-16.47210882">
+  <name>541</name>
+  <extensions>
+    <ogr:elevation>127.499634</ogr:elevation>
+    <ogr:comment>541</ogr:comment>
+    <ogr:description>541</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.970485516" lon="-16.513094148">
+  <name>542</name>
+  <extensions>
+    <ogr:elevation>803.061035</ogr:elevation>
+    <ogr:comment>542</ogr:comment>
+    <ogr:description>542</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.971802397" lon="-16.53168546">
+  <name>543</name>
+  <extensions>
+    <ogr:elevation>966.243408</ogr:elevation>
+    <ogr:comment>543</ogr:comment>
+    <ogr:description>543</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.972107917" lon="-16.534426594">
+  <name>544</name>
+  <extensions>
+    <ogr:elevation>1018.154297</ogr:elevation>
+    <ogr:comment>544</ogr:comment>
+    <ogr:description>544</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.97719305" lon="-16.532668909">
+  <name>545</name>
+  <extensions>
+    <ogr:elevation>973.212891</ogr:elevation>
+    <ogr:comment>545</ogr:comment>
+    <ogr:description>545</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.978705565" lon="-16.503771376">
+  <name>546</name>
+  <extensions>
+    <ogr:elevation>779.508789</ogr:elevation>
+    <ogr:comment>546</ogr:comment>
+    <ogr:description>546</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.969786381" lon="-16.49705328">
+  <name>547</name>
+  <extensions>
+    <ogr:elevation>518.753174</ogr:elevation>
+    <ogr:comment>547</ogr:comment>
+    <ogr:description>547</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.973689079" lon="-16.502762027">
+  <name>548</name>
+  <extensions>
+    <ogr:elevation>590.130371</ogr:elevation>
+    <ogr:comment>548</ogr:comment>
+    <ogr:description>548</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.969211634" lon="-16.507682875">
+  <name>549</name>
+  <extensions>
+    <ogr:elevation>694.192627</ogr:elevation>
+    <ogr:comment>549</ogr:comment>
+    <ogr:description>549</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.96430864" lon="-16.495016981">
+  <name>550</name>
+  <extensions>
+    <ogr:elevation>481.021729</ogr:elevation>
+    <ogr:comment>550</ogr:comment>
+    <ogr:description>550</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.993212376" lon="-16.857211338">
+  <name>551</name>
+  <extensions>
+    <ogr:elevation>190.465576</ogr:elevation>
+    <ogr:comment>551</ogr:comment>
+    <ogr:description>551</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.892155541" lon="-16.619308284">
+  <name>552</name>
+  <extensions>
+    <ogr:elevation>66.696655</ogr:elevation>
+    <ogr:comment>552</ogr:comment>
+    <ogr:description>552</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.892684104" lon="-16.602073163">
+  <name>553</name>
+  <extensions>
+    <ogr:elevation>0.606567</ogr:elevation>
+    <ogr:comment>553</ogr:comment>
+    <ogr:description>553</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.891582051" lon="-16.623866195">
+  <name>554</name>
+  <extensions>
+    <ogr:elevation>76.550171</ogr:elevation>
+    <ogr:comment>554</ogr:comment>
+    <ogr:description>554</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.964435123" lon="-16.731972545">
+  <name>555</name>
+  <extensions>
+    <ogr:elevation>1025.364014</ogr:elevation>
+    <ogr:comment>555</ogr:comment>
+    <ogr:description>555</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.963224692" lon="-16.735367971">
+  <name>556</name>
+  <extensions>
+    <ogr:elevation>974.174316</ogr:elevation>
+    <ogr:comment>556</ogr:comment>
+    <ogr:description>556</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.962923782" lon="-16.734359292">
+  <name>557</name>
+  <extensions>
+    <ogr:elevation>985.469727</ogr:elevation>
+    <ogr:comment>557</ogr:comment>
+    <ogr:description>557</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.942004899" lon="-16.43190519">
+  <name>558</name>
+  <extensions>
+    <ogr:elevation>35.694336</ogr:elevation>
+    <ogr:comment>558</ogr:comment>
+    <ogr:description>558</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.993238695" lon="-16.446652226">
+  <name>559</name>
+  <extensions>
+    <ogr:elevation>102.986084</ogr:elevation>
+    <ogr:comment>559</ogr:comment>
+    <ogr:description>559</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.926123204" lon="-16.547859013">
+  <name>560</name>
+  <extensions>
+    <ogr:elevation>69.340332</ogr:elevation>
+    <ogr:comment>560</ogr:comment>
+    <ogr:description>560</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.879444553" lon="-16.676576547">
+  <name>561</name>
+  <extensions>
+    <ogr:elevation>38.818604</ogr:elevation>
+    <ogr:comment>561</ogr:comment>
+    <ogr:description>561</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.945394959" lon="-16.631346121">
+  <name>562</name>
+  <extensions>
+    <ogr:elevation>1012.626953</ogr:elevation>
+    <ogr:comment>562</ogr:comment>
+    <ogr:description>562</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.941612877" lon="-16.634182641">
+  <name>563</name>
+  <extensions>
+    <ogr:elevation>964.801514</ogr:elevation>
+    <ogr:comment>563</ogr:comment>
+    <ogr:description>563</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.932043007" lon="-16.642416855">
+  <name>564</name>
+  <extensions>
+    <ogr:elevation>770.856934</ogr:elevation>
+    <ogr:comment>564</ogr:comment>
+    <ogr:description>564</ogr:description>
+  </extensions>
+</wpt>
+<wpt lat="63.930731826" lon="-16.639377577">
+  <name>565</name>
+  <extensions>
+    <ogr:elevation>753.793701</ogr:elevation>
+    <ogr:comment>565</ogr:comment>
+    <ogr:description>565</ogr:description>
+  </extensions>
+</wpt>
+</gpx>
