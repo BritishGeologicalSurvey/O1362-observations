@@ -72,7 +72,7 @@ the following code to the HTML Map Tip box (`[Right click] > Properties > Displa
 Make sure that Map Tips are enabled (`View > Show Map Tips`)
 
 
-### Advanced
+## Advanced
 
 The following steps can make for an even smoother experience.
 
@@ -86,9 +86,7 @@ copied to different locations without breaking the links.  There are three steps
 1. Save the project as a `.qgz` file (`Project > Save as...`) in a directory
    above the photos.
 2. Add a `relative_path` field to the Attributes of the photos layers using the
-   Field Calculator (`Right
-   click > Open Attribute Table > Open field calculator`).
-    + Create new text (unlimited length) field called `relative_path` defined by the expression `replace("photo", 'C:\\Users\\path\\to\\project\\directory', '')`. This removes the start from the file path. Note the double backslashes.
+   Field Calculator (`[Right click] > Open Attribute Table > Open field calculator`).  Then create new text (unlimited length) field called `relative_path` defined by the expression `replace("photo", 'C:\\Users\\path\\to\\project\\directory', '')`. This removes the start of the file path. Note the double backslashes.
 3. Update the addresses in the Map Tips to `"file://[%
    @project_folder || relative_path %]"`
 
@@ -105,9 +103,8 @@ make them pop up more quickly.
 Where multiple photos were tagged with the same location, the mouse-over will
 only read from the top marker.  The other photos cannot be accessed.
 A work-around for this is to perturb the location of the images so they no
-longer overlap.  Use the GRASS "perturb" tool (`Processing > Toolbox
-> v.perturb`) to add a uniform distribution of up to 0.0001° (equivalent to
-about 10 m) to the photos layer to separate out overlapping points.
+longer overlap.  Use the GRASS "perturb" tool (`Processing > Toolbox > v.perturb`) to add a uniform distribution of up to 0.0001° (equivalent to
+about 10 m) to the photos layer to spread out overlapping points.
 
 The QGIS Displacement Renderer tool for Symbology can also offset overlapping
 points, but it [doesn't yet work with the Map
