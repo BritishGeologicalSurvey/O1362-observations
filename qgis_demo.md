@@ -74,7 +74,8 @@ Make sure that Map Tips are enabled (`View > Show Map Tips`)
 
 ## Advanced
 
-The following steps can make for an even smoother experience.
+The following steps make for an even smoother experience.
+
 
 #### Relative file paths
 
@@ -112,12 +113,12 @@ Tips](https://issues.qgis.org/issues/16131).
 
 ## Links
 
-
 + QGIS: [https://qgis.org](https://qgis.org)
 + QGIS Github page:
   [https://github.com/qgis/QGIS](https://github.com/qgis/QGIS)
-+ Shapefile must die!: [http://switchfromshapefile.org](http://switchfromshapefile.org)
-+ GPS Prune (geotag images using external GPS data):
++ Shapefile must die! (QGIS3 default is geopackage): [http://switchfromshapefile.org](http://switchfromshapefile.org)
++ GPS Prune (geotag images from normal cameras using external GPS data by
+  matching time stamps with track locations):
   [https://activityworkshop.net/software/gpsprune/](https://activityworkshop.net/software/gpsprune/)
 
 + volcan01010: [https://www.twitter.com/volcan01010](https://www.twitter.com/volcan01010)
