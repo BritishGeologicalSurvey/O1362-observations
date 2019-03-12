@@ -120,6 +120,8 @@ Tips](https://issues.qgis.org/issues/16131).
 + GPS Prune (geotag images from normal cameras using external GPS data by
   matching time stamps with track locations):
   [https://activityworkshop.net/software/gpsprune/](https://activityworkshop.net/software/gpsprune/)
++ Demo of GPS Prune correlation:
+  [https://www.youtube.com/watch?v=SLRD9MDdIF8](https://www.youtube.com/watch?v=SLRD9MDdIF8)
 
 + volcan01010: [https://www.twitter.com/volcan01010](https://www.twitter.com/volcan01010)
 + Fieldwork Guide For Robots:
