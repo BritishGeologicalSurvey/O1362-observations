@@ -104,8 +104,7 @@ make them pop up more quickly.
 Where multiple photos were tagged with the same location, the mouse-over will
 only read from the top marker.  The other photos cannot be accessed.
 A work-around for this is to perturb the location of the images so they no
-longer overlap.  Use the GRASS "perturb" tool (`Processing > Toolbox > v.perturb`) to add a uniform distribution of up to 0.0001° (equivalent to
-about 10 m) to the photos layer to spread out overlapping points.
+longer overlap.  Use the GRASS "perturb" tool (`Processing > Toolbox > v.perturb`) to add a uniform distribution of up to 0.00005° (equivalent to about 5 m) to the photos layer to spread out overlapping points.
 
 The QGIS Displacement Renderer tool for Symbology can also offset overlapping
 points, but it [doesn't yet work with the Map
